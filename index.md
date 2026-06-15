@@ -86,7 +86,7 @@ Among the zero-shot VC baselines, SeedVC achieved the lowest CER and SER. Howeve
 * Table. III. SpeechBERTScore, UTMOS, and MOSA-Net+ scores for NEL, NL, and converted speech (mean ± 95\% confidence interval).
 ![nnmos](figure/nn-mos.png)
 
-![ab_test](figure/AB_Test_Results.png)
+![ab_test](figure/abtest_v6.png)
 * Fig. 2. A/B test results for different model configurations on intelligibility. The bars represent the percentage of subjects' voting for each system (system A, system B, and no preference).
 
 
